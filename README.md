@@ -58,6 +58,4 @@ Given an input image, the model detects cars and other objects, returning the bo
 
 The YOLO model predicts bounding boxes and class probabilities in a single forward pass, making it suitable for real-time applications. This script integrates the YOLO outputs with additional processing for effective object detection.
 
-## License
 
-This project is licensed under the MIT License.
